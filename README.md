@@ -1,1 +1,1 @@
-# customer-transaction-analysis
+customer-transaction-analysisCustomer Transaction Analysis uses machine learning to study customer purchasing behavior and transaction patterns. The project applies data preprocessing, feature engineering, and ML models to predict customer behavior, identify high-value customers, and support data-driven business decisions.
